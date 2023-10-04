@@ -48,7 +48,7 @@ hr{
 #about{
     padding-right: 100px;
     margin-left: 50px;
-    padding-left: 7%;
+    padding-left: 10px;
     animation: fadeInAnimation ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;

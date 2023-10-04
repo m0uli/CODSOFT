@@ -63,7 +63,7 @@ hr{
 .ppachali{
     width: auto;
     height: 105vh;
-    background-image: url("images/PPachali.jpg");
+    background-image: url("PPachali.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     display: block;
@@ -93,7 +93,7 @@ hr{
     height: 112vh;
     padding-top: 0;
     padding-bottom: 0;
-    background-image: url("images/feluda.jpeg");
+    background-image: url("feluda.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
